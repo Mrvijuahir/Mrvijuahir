@@ -1,4 +1,4 @@
-# Hi there, I'm Jay 👋
+# Hi there, I'm Vijay 👋
 
 Welcome to my GitHub profile! I'm a passionate full-stack web developer with a love for all things tech. Here's a bit about me:
 
@@ -7,20 +7,20 @@ Welcome to my GitHub profile! I'm a passionate full-stack web developer with a l
 - 💡 Passionate about exploring the latest trends in tech.
 - 💼 I'm open to collaborating on exciting projects or new opportunities.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [work.depani@gmail.com](mailto:work.depani@gmail.com)
+- 📫 How to reach me: [vahir9487@gmail.com](mailto:vahir9487@gmail.com)
 
 ## GitHub Stats
 
-![workjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=workjay&show_icons=true&theme=radical)
+![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrvijuahir&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workjay&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrvijuahir&layout=compact&theme=radical)
 
 ## Connect with Me
 
 - [Portfolio Website](https://jaydepani.vercel.app/)
-- [Upwork](https://www.upwork.com/freelancers/~01abb74e514da03118?mp_source=share)
-- [LinkedIn](https://www.linkedin.com/in/workjay/)
+- [Upwork](https://www.upwork.com/freelancers/~011eb6d62cfbadfed1?mp_source=share)
+- [LinkedIn](https://www.linkedin.com/in/vijay-puchhadiya/)
 
 Thanks for stopping by! Have a great day! 😊
