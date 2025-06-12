@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Jay 👋
 
-<!--
-**Mrvijuahir/Mrvijuahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate full-stack web developer with a love for all things tech. Here's a bit about me:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💡 Passionate about exploring the latest trends in tech.
+- 💼 I'm open to collaborating on exciting projects or new opportunities.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: [work.depani@gmail.com](mailto:work.depani@gmail.com)
+
+## GitHub Stats
+
+![workjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=workjay&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workjay&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [Portfolio Website](https://jaydepani.vercel.app/)
+- [Upwork](https://www.upwork.com/freelancers/~01abb74e514da03118?mp_source=share)
+- [LinkedIn](https://www.linkedin.com/in/workjay/)
+
+Thanks for stopping by! Have a great day! 😊
