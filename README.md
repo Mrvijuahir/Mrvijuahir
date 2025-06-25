@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a **freelance full-stack web developer** specializing 
 
 ## 🌐 Connect with Me
 
-- 🌍 [Portfolio Website](https://jaydepani.vercel.app/)
+- 🌍 [Portfolio Website](https://vijay-puchhadiya.vercel.app/)
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/~011eb6d62cfbadfed1?mp_source=share)
 - 💬 [LinkedIn](https://www.linkedin.com/in/vijay-puchhadiya/)
 
